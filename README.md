@@ -1,4 +1,4 @@
-FCB.NoiseFlow2D
+fcb.noiseflow2d
 ===============
 
-For my 'La Petite Mort' project, I've build this noiseflow based realtime particle system in Max/MSP.
+I've build this noiseflow based realtime particle system in Max/MSP for my 'La Petite Mort' project
